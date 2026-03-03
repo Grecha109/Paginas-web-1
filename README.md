@@ -1,0 +1,25 @@
+<html> 
+<header>
+<style>
+
+  <style>
+</header>
+<body>
+    <table>
+    <tr>
+    <th>
+    ANIMALES
+    </th>
+    <th>
+    DESCRIPCION
+    </th>
+    <th>
+    IMAGEN
+    </th>
+    </tr>
+    <tr>
+    
+</tr>
+<table<
+    <body>
+    </html>
