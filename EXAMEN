@@ -1,82 +1,108 @@
-<html> 
-<header>
-<style>
-  img{
-border: 1px solid #ddd;
-border-radius: 4px;
-padding: 5px;
-width 150px;
+<html>
+  <heater>
+    <style> 
+    body{
+  body {
+        font-family: "Segoe UI", Arial, sans-serif;
+      }
+       table {
+        border-collapse: collapse;
+        width: 100%;
+      }
+    city {
+  background-color: #F90673;
+  color: white;
+  border: 2px solid blue;
+  margin: 20px;
+  padding: 20px;
 }
-table, th .td{
-border: 1px solid black;
-}
-<style>
-</header>
-   <body>
-  <table>
-     <tr>
-      <th>ANIMALES</th>
-      <th>DESCRIPTION</th>
-     <th>IMAGEN</th>
-   </tr>
-  <tr>
-   <td>
-  lobo
-  </td>
+      table, th, td {
+        border: 2px solid #00FFFF;
+        border-radius: 10px;
+        text-align: center;
+        padding: 10px;
+      }
+      th {
+        background-color: #800080;
+        color:#FF00FF;
+      }
+      img {
+        display: block;
+        margin: auto;
+        border-radius: 9px;
+      }
+      <p style="background-image: url('https://www.nationalgeographicla.com/animales/2025/07/dia-internacional-del-tigre-que-tigres-se-han-extinguido-en-la-naturaleza-y-por-que');">
+    </style>
+  </heater>
+  <body> 
+    <h2> PROYECTO PRIMER PARCIAL</h2>
+    <p> INSTITUTO CULTURAL CANADIENCE</p>
+    <P> ELIZABETH ENRIQUEZ ORTA</P>
+    <P style="color:#FF00FF;"> ME GUSTO PROGRAMAR YA QUE ERA ALGO QUE NUNCA HABIA HECHO, FUE MUY PADRE CREAR ESTE PROGRAMA Y CONVERTIRLO EN UNA PAGINA WED<3 </P>
+    
+    <table>
+      <tr>
+    <th>ANIMALES</th>
+    <th>DESCRIPCION</th>
+    <th>IMAGEN</th>
+    </tr>
+      <tr>
+      <td>
+       Tortuga 
+      </td>
+       <td>
+        Las tortugas, o quelonios, son reptiles vertebrados del orden Testudines, caracterizados por poseer un tronco ancho y corto protegido por un caparazón rígido, fusionado a su columna vertebral. Son animales ovíparos de sangre fría que existen desde la época de los dinosaurios, adaptados a medios terrestres, marinos y de agua dulce
+      </td>
+       <td>
+      <img width="50%" src="https://midebien.com/wp-content/uploads/2016/10/LAS-TORTUGAS-SON-ESPECIALISTAS-EN-ESCUCHAR-BAJO-EL-AGUA-min-420x338.jpg"7>
+       </td> 
+      </tr>
+      <tr>
+        <td>
+     Colibri 
+     </td>
+      <td>
+        El colibrí (familia Trochilidae), también conocido como chuparrosa o picaflor, es una pequeña ave endémica del continente americano, famosa por su plumaje brillante y su vuelo veloz. Son los únicos pájaros capaces de volar en todas direcciones, incluso hacia atrás, batiendo sus alas hasta 200 veces por segundo
+      </td>
+       <td>
+     <img width="50%" src= "https://static.bainet.es/clip/afaaad7f-66f0-4ceb-bc76-7e183958ca07_source-aspect-ratio_1600w_0.jpg"/>
+     </td>
+      </tr>
+      <tr>
+      <td>
+      Mantarraya 
+      </td>
+      <td>
+          La mantarraya es el pez cartilaginoso más grande del mundo (género Mobula), conocido por su cuerpo plano, enormes aletas pectorales en forma de alas y dos lóbulos cefálicos cerca de la boca. A diferencia de otras rayas, no tienen aguijón venenoso ni esqueleto óseo, y son filtradoras inofensivas que consumen plancto
+      </td>
+        <td>
+        <img width="50%"src="https://mantaray-world.com/wp-content/uploads/manta.webp"/>
+      </td>
+      </tr>
+      <tr>
+       <td>
+      Caballo
+        </td>
+        <td>
+          El caballo (Equus ferus caballus) es un mamífero herbívoro, cuadrúpedo y ungulado de gran tamaño, perteneciente a la familia de los équidos. Se caracteriza por su cuello largo, crines, y extremidades terminadas en un solo dedo funcional (casco). Domesticado hace más de 5000 años, es utilizado históricamente para transporte, carga y compañía.
+       </td>
+        <td>
+          <img width="50%" src="https://www.zotal.com/wp-content/uploads/2019/08/razascaballos.png"/>
+        </td>
+        </tr>
+        <tr>
+        <td>
+          Leopardo
+        </td>
+        <td>
+         El leopardo (Panthera pardus) es un gran felino carnívoro y solitario, conocido por su agilidad, pelaje manchado con rosetas y gran capacidad para trepar árboles. Habita en diversas zonas de África y Asia, adaptándose a selvas, sabanas y desiertos. Son cazadores nocturnos, rápidos (hasta 
 
-  <td>
-    El lobo gris, o simplemente lobo, es una especie de mamífero placentario del orden de los carnívoros. 
-  </td>
-  <td>
-<img width="50%"src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGRoaueEHc_ewHhXuooYHw6wKT5I_Y8NqeXGWMEveNaxHN9NyFN2n8VAqYRcEpgjTttU7yDF5A26Ib7i3hUToHWV6RySPzZMmgKQ1ILyE&s=10>
-</td>
-</tr>
-<tr>
-<td>
-ballena 
-</td>
-
-<td>
-Las ballenas son un grupo diverso y ampliamente distribuido de mamíferos marinos placentarios totalmente acuáticos. 
-</td>
-<td>
-<img width="50%"src=https://ocean.org/whales/>
-</td>
-</tr>
-<tr>
-<td>
-koala
-</td>
-
-</td>
-El koala es una especie de marsupial diprotodonto de la familia Phascolarctidae, endémico de Australia. 
-</td>
-<td>
- <(img width="50%"src=https://animalpedia.fandom.com/es/wiki/Koala>
-</td>
-</tr>
-<td>
-mariposa
-</td>
-
-</td>
-Los lepidópteros son un orden de insectos holometábolos, casi siempre voladores, conocidos comúnmente como mariposas; las más conocidas son las mariposas diurnas
-</td>
-<td>
-<img width="50%"src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQonfm2Ks6-EUAWaTJ9tf6eg2Ub-jOUT6sA_gztSDy-Ue2AQeWGzP_d1mmY4k3H6UAjyOt3WIk4iOWvFHpXSRq0fA6nH_DJ7vLMYQCEESn1&s=10>
-</td>
-</tr>
-<td>
-leon
-</td>
-
-<td>
-El león es un mamífero carnívoro de la familia de los félidos y una de las cinco especies del género Panthera.
-</td>
-<td>
-<img width="50%"src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVL5xmyCqDDUSqUDGzny1-oOnJsSPezfElOhxPQvH-gn7t0V8xg8vprz1KglJBqbx5-RVJHtwJqvu1tuxvY_tuGfpIpZkykf_eMNboeQ&s=10>
-</td>
-</tr>
-</table>
-</body>
+) y excelentes nadadores 
+          </td>
+        <td>
+          <img width="50%" src="https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2022/07/01/16566536177612.jpg"/>
+        </td>
+      </tr>
+    </table>
+  </body> 
 </html>
