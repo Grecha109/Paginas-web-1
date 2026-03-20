@@ -76,7 +76,7 @@
         Los lepidópteros son un orden de insectos holometábolos, casi siempre voladores, conocidos comúnmente como mariposas; las más conocidas son las mariposas diurnas, pero la mayoría de las especies son de hábitos nocturnos y pasan muy inadvertidas.
       </td>
       <td>
-        <img width="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQeLTwCD8_Tag1UvabZg5D3kn7fVnY2iL7w&s"/>
+        <img width="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RzHlvlP9iHCfVPBp-SZAxNxjMFMlPdYi5Q&s"/>
       </td>
       </tr>
       <tr>
