@@ -1,7 +1,7 @@
 <html>
-  <header>
-  <style>
-body{
+  <heater>
+    <style> 
+    body{
   body {
         font-family: "Segoe UI", Arial, sans-serif;
       }
@@ -9,103 +9,99 @@ body{
         border-collapse: collapse;
         width: 100%;
       }
+    city {
+  background-color: #F90673;
+  color: white;
+  border: 2px solid blue;
+  margin: 20px;
+  padding: 20px;
+}
       table, th, td {
-        border: 2px solid turquoise;
+        border: 2px solid #00FFFF;
         border-radius: 10px;
         text-align: center;
         padding: 10px;
       }
       th {
-        background-color: turquoise;
-        color: white;
+        background-color: #800080;
+        color:#FF00FF;
       }
       img {
         display: block;
         margin: auto;
-        border-radius: 8px;
+        border-radius: 9px;
       }
-</style>  
-  </header>
-  <body>
+      <p style="background-image: url('https://www.nationalgeographicla.com/animales/2025/07/dia-internacional-del-tigre-que-tigres-se-han-extinguido-en-la-naturaleza-y-por-que');">
+    </style>
+  </heater>
+  <body> 
+    <h2> PROYECTO PRIMER PARCIAL</h2>
+    <p> INSTITUTO CULTURAL CANADIENCE</p>
+    <P> ALISON GRECIA GARDUÑO VILCHIS</P>
+    <P style="color:#FF00FF;"> ME GUSTO PROGRAMAR POR QUE PARA MI FUE ALGO NUEVO<3 </P>
+    
     <table>
       <tr>
-        <th>ANIMALES</th>
-        <th>DESCRIPCIÓN</th>
-        <th>IMAGEN</th>
+    <th>ANIMALES</th>
+    <th>DESCRIPCION</th>
+    <th>IMAGEN</th>
+    </tr>
+      <tr>
+      <td>
+       Lobo  
+      </td>
+       <td>
+        El lobo gris, o simplemente lobo, es una especie de mamífero placentario del orden de los carnívoros.
+      </td>
+       <td>
+      <img width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGRoaueEHc_ewHhXuooYHw6wKT5I_Y8NqeXGWMEveNaxHN9NyFN2n8VAqYRcEpgjTttU7yDF5A26Ib7i3hUToHWV6RySPzZMmgKQ1ILyE&s=10/">
+       </td> 
       </tr>
       <tr>
         <td>
-          FLAMINGO
-        </td>
-        <td>
-          Los flamencos son aves acuáticas esbeltas y zancudas, 
-          reconocibles por sus largas patas, cuellos sinuosos y 
-          plumaje rosado, que va del rosa pálido al carmesí intenso 
-          según su dieta. Miden entre 80 y 150 cm de altura, tienen un 
-          pico curvado único para filtrar alimentos y son muy sociables, 
-          viviendo en grandes colonias.
-        </td>
-        <td>
-          <img width="50%" src="https://salroche.com/cdn/shop/articles/1010083.jpg?v=1598464073"/>
-        </td>
+     Leon
+     </td>
+      <td>
+      león es un mamífero carnívoro de la familia de los félidos y una de las cinco especies del género Panthera.
+      </td>
+       <td>
+     <img width="50%" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVL5xmyCqDDUSqUDGzny1-oOnJsSPezfElOhxPQvH-gn7t0V8xg8vprz1KglJBqbx5-RVJHtwJqvu1tuxvY_tuGfpIpZkykf_eMNboeQ&s=10"/>
+     </td>
       </tr>
       <tr>
+      <td>
+      Ballena
+      </td>
+      <td>
+         Las ballenas son un grupo diverso y ampliamente distribuido de mamíferos marinos placentarios totalmente acuáticos. 
+      </td>
         <td>
-          QUETZAL
-        </td>
-        <td>
-          El quetzal es una emblemática ave de los bosques nubosos de Mesoamérica 
-          (sur de México a Panamá), famosa por el plumaje verde iridiscente y el 
-          pecho rojo del macho, cuya cola puede medir hasta 1 metro. Es una especie
-          Sagrada y amenazada, que simboliza la libertad, fertilidad y es la moneda y 
-          ave nacional de Guatemala.
-        </td>
-        <td>
-          <img width="50%" src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/614525897/900"/>
-        </td>
+        <img width="50%"src="https://ocean.org/whales/"/>
+      </td>
       </tr>
       <tr>
-        <td>
-          GUACAMAYA
+       <td>
+      Caballo
         </td>
         <td>
-          La guacamaya es una ave exótica de gran tamaño, conocida por su plumaje vibrante
-          (rojo, azul, amarillo), pico curvo extremadamente fuerte para romper semillas y 
-          larga cola. Originarias de selvas tropicales americanas, son aves muy sociables que
-          forman parejas monógamas de por vida y son capaces de imitar el habla humana.
+          El caballo (Equus ferus caballus) es un mamífero herbívoro, cuadrúpedo y ungulado de gran tamaño, perteneciente a la familia de los équidos. Se caracteriza por su cuello largo, crines, y extremidades terminadas en un solo dedo funcional (casco). Domesticado hace más de 5000 años, es utilizado históricamente para transporte, carga y compañía.
+       </td>
+        <td>
+          <img width="50%" src="https://www.zotal.com/wp-content/uploads/2019/08/razascaballos.png"/>
+        </td>
+        </tr>
+        <tr>
+        <td>
+          koala
         </td>
         <td>
-          <img width="50%" src="https://www.deciam.com/wp-content/uploads/2014/12/gal-guacamaya-700x460.jpg"/>
-        </td>
-      </tr>
-      <tr>
+         El koala es una especie de marsupial diprotodonto de la familia Phascolarctidae, endémico de Australia.
+
+          </td>
         <td>
-          TUCÁN
-        </td>
-        <td>
-         Los tucanes son aves tropicales americanas, famosas por su pico largo y colorido 
-          (hasta 20 cm) que, a pesar de su tamaño, es ligero, aserrado y sirve para regular 
-          su temperatura corporal. Miden entre 18 y 65 cm, tienen plumaje principalmente negro, 
-          patas fuertes, son monógamos y viven en grupos sociales en selvas húmedas.
-        </td>
-        <td>
-          <img width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjeimPnUM-Kylv7oG3DIoplD3-G66Ufnya6Q&s"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          PAVO REAL
-        </td>
-        <td>
-         El pavo real (Pavo cristatus) es un ave galliforme de gran tamaño conocida por el vistoso 
-          plumaje azul iridiscente y la larga cola ocelada del macho, utilizada en el cortejo. 
-          Es una especie polígama, omnívora y terrestre, nativa de Asia, que habita en bosques
-          y selvas, destacando por su dimorfismo sexual.
-        </td>
-        <td>
-          <img width="50%" src="https://www.lifeder.com/wp-content/uploads/2019/02/pavo-real.jpg"/>
+          <img width="50%" src="https://animalpedia.fandom.com/es/wiki/Koala"/>
         </td>
       </tr>
     </table>
-  </body>
+  </body> 
 </html>
