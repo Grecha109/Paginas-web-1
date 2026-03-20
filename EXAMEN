@@ -1,31 +1,15 @@
 <html> 
 <header>
 <style>
-    body{
-        body{
-            font-family:"segoe UI" , 
-                Arial; sans-serit;
-            }
-        table{ 
-            border-collapse: collapse
-            width:100%
-            }
-            tables,th, td{
-                boder:2px solid pink;
-                boder-radius:10px
-                    text-align:center;
-                padding:10px;
-                }
-            th{
-                background-color:
-                pink;
-                color:white;
-                }
-            img{
-                diplay:block;
-                margin:auto
-                border-radius:8px;
-                }
+  img{
+border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width 150px;
+}
+table, th .td{
+border: 1px solid black;
+}
 <style>
 </header>
    <body>
