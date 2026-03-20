@@ -1,6 +1,6 @@
 <html>
   <heater>
-    <style> 
+    <style>
     body{
   body {
         font-family: "Segoe UI", Arial, sans-serif;
