@@ -70,13 +70,13 @@
       </tr>
       <tr>
       <td>
-      Mariposa
+      Koala
       </td>
       <td>
-        Los lepidópteros son un orden de insectos holometábolos, casi siempre voladores, conocidos comúnmente como mariposas; las más conocidas son las mariposas diurnas, pero la mayoría de las especies son de hábitos nocturnos y pasan muy inadvertidas.
+       El koala es una especie de marsupial diprotodonto de la familia Phascolarctidae, endémico de Australia. 
       </td>
       <td>
-        <img width="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RzHlvlP9iHCfVPBp-SZAxNxjMFMlPdYi5Q&s"/>
+        <img width="50%" src="https://kids.britannica.com/students/article/koala/328484"/>
       </td>
       </tr>
       <tr>
