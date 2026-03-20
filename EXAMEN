@@ -1,0 +1,99 @@
+
+<html> 
+<header>
+<style>
+    body{
+        body{
+            font-family:"segoe UI" , 
+                Arial; sans-serit;
+            }
+        table{ 
+            border-collapse: collapse
+            width:100%
+            }
+            tables,th, td{
+                boder:2px solid pink;
+                boder-radius:10px
+                    text-align:center;
+                padding:10px;
+                }
+            th{
+                background-color:
+                pink;
+                color:white;
+                }
+            img{
+                diplay:block;
+                margin:auto
+                border-radius:8px;
+                }
+<style>
+</header>
+   <body>
+  <table>
+     <tr>
+      <th>ANIMALES</th>
+      <th>DESCRIPTION</th>
+     <th>IMAGEN</th>
+   </tr>
+  <tr>
+   <td>
+  lobo
+  </td>
+
+  <td>
+    El lobo gris, o simplemente lobo, es una especie de mamífero placentario del orden de los carnívoros. 
+  </td>
+  <td>
+<img width="50%"src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGRoaueEHc_ewHhXuooYHw6wKT5I_Y8NqeXGWMEveNaxHN9NyFN2n8VAqYRcEpgjTttU7yDF5A26Ib7i3hUToHWV6RySPzZMmgKQ1ILyE&s=10>
+</td>
+</tr>
+<tr>
+<td>
+ballena 
+</td>
+
+<td>
+Las ballenas son un grupo diverso y ampliamente distribuido de mamíferos marinos placentarios totalmente acuáticos. 
+</td>
+<td>
+<img width="50%"src=https://ocean.org/whales/>
+</td>
+</tr>
+<tr>
+<td>
+koala
+</td>
+
+</td>
+El koala es una especie de marsupial diprotodonto de la familia Phascolarctidae, endémico de Australia. 
+</td>
+<td>
+ <(img width="50%"src=https://animalpedia.fandom.com/es/wiki/Koala>
+</td>
+</tr>
+<td>
+mariposa
+</td>
+
+</td>
+Los lepidópteros son un orden de insectos holometábolos, casi siempre voladores, conocidos comúnmente como mariposas; las más conocidas son las mariposas diurnas
+</td>
+<td>
+<img width="50%"src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQonfm2Ks6-EUAWaTJ9tf6eg2Ub-jOUT6sA_gztSDy-Ue2AQeWGzP_d1mmY4k3H6UAjyOt3WIk4iOWvFHpXSRq0fA6nH_DJ7vLMYQCEESn1&s=10>
+</td>
+</tr>
+<td>
+leon
+</td>
+
+<td>
+El león es un mamífero carnívoro de la familia de los félidos y una de las cinco especies del género Panthera.
+</td>
+<td>
+<img width="50%"src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVL5xmyCqDDUSqUDGzny1-oOnJsSPezfElOhxPQvH-gn7t0V8xg8vprz1KglJBqbx5-RVJHtwJqvu1tuxvY_tuGfpIpZkykf_eMNboeQ&s=10>
+</td>
+</tr>
+</table>
+</body>
+</html>
