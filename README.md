@@ -108,7 +108,7 @@ ul{
     <!-- IZQUIERDA -->
     <div class="sidebar">
 
-        <img src="foto.jpg" class="profile-img">
+        <img src="blob:https://web.whatsapp.com/a1ca0809-17f7-4190-b978-2ea6a27a49d4" class="profile-img">
 
         <div class="section">
             <h3>CONTACTO</h3>
